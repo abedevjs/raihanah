@@ -7,7 +7,7 @@ function Logo() {
       <div className=" w-[clamp(2rem,1.4627rem+2.3881vw,4rem)] h-auto inline-block">
         <img
           className="block h-full w-full rounded-full"
-          src="/images/logo/logoSM.jpg"
+          src="/images/logo/logoRaihanah2.png"
           alt="Logo"
         />
         {/* <svg

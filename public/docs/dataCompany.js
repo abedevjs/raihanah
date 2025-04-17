@@ -1,17 +1,17 @@
 const dataCompany = {
-  companyLongName: "Safa Marwah Wisata",
-  companyShortName: "Safa Marwah",
-  companyLawName: "PT. Safa Marwah Wisata",
-  year: "2024",
-  ceoName: "Hj. Norma Intan",
+  companyLongName: "Raihanah Awaliyah",
+  companyShortName: "Raihanah Awaliyah",
+  companyLawName: "PT. Raihanah Awaliyah",
+  year: "2015",
+  ceoName: "Dr. H. Najib Tabhan, Lc., MA",
   ceoImage: "/images/ceo.jpeg",
   address: "Depan Pasar Batangase, Maros, Sulawesi Selatan",
   city: "Maros",
   cityImage: "/images/maros.jpg",
-  contactNumber: "6285225161912",
+  contactNumber: "6281281387084",
   googleMap: "https://google.com",
   whatsAppLink:
-    "https://api.whatsapp.com/send/?phone=6285225161912&text=Assalaamu+alaikum+Safa+Marwa+Travel&type=phone_number&app_absent=0",
+    "https://api.whatsapp.com/send/?phone=6281281387084&text=Assalaamu+alaikum+Raihanah+Awaliyah+Travel&type=phone_number&app_absent=0",
 };
 
 // const dataCompany = {
