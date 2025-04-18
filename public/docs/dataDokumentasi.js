@@ -94,63 +94,38 @@ import shuffleArray from "../../src/helpers/shuffleArray";
 const dataDokumentasiImage = [
   {
     type: "img",
-    imageUrlSM: "/images/dokumentasi/samarPswtSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarPswtLG.jpg",
+    imageUrlSM: "/images/dokumentasi/raihanah1SM.jpg",
+    imageUrlLG: "/images/dokumentasi/raihanah1LG.jpg",
   },
   {
     type: "img",
-    imageUrlSM: "/images/dokumentasi/samarMirrorSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarMirrorLG.jpg",
+    imageUrlSM: "/images/dokumentasi/raihanah2SM.jpg",
+    imageUrlLG: "/images/dokumentasi/raihanah2LG.jpg",
   },
   {
     type: "img",
-    imageUrlSM: "/images/dokumentasi/samarBrownSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarBrownLG.jpg",
+    imageUrlSM: "/images/dokumentasi/raihanah3SM.jpg",
+    imageUrlLG: "/images/dokumentasi/raihanah3LG.jpg",
   },
   {
     type: "img",
-    imageUrlSM: "/images/dokumentasi/samarArabSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarArabLG.jpg",
+    imageUrlSM: "/images/dokumentasi/raihanah4SM.jpg",
+    imageUrlLG: "/images/dokumentasi/raihanah4LG.jpg",
   },
   {
     type: "img",
-    imageUrlSM: "/images/dokumentasi/samarFenceSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarFenceLG.jpg",
+    imageUrlSM: "/images/dokumentasi/raihanah5SM.jpg",
+    imageUrlLG: "/images/dokumentasi/raihanah5LG.jpg",
   },
   {
     type: "img",
-    imageUrlSM: "/images/dokumentasi/samarBusSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarBusLG.jpg",
+    imageUrlSM: "/images/dokumentasi/raihanah6SM.jpg",
+    imageUrlLG: "/images/dokumentasi/raihanah6LG.jpg",
   },
   {
     type: "img",
-    imageUrlSM: "/images/dokumentasi/samarKaabaSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarKaabaLG.jpg",
-  },
-  {
-    type: "img",
-    imageUrlSM: "/images/dokumentasi/samarRahmaSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarRahmaLG.jpg",
-  },
-  {
-    type: "img",
-    imageUrlSM: "/images/dokumentasi/samarTowerSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarTowerLG.jpg",
-  },
-  {
-    type: "img",
-    imageUrlSM: "/images/dokumentasi/samarRameSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarRameLG.jpg",
-  },
-  {
-    type: "img",
-    imageUrlSM: "/images/dokumentasi/samarMinaSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarMinaLG.jpg",
-  },
-  {
-    type: "img",
-    imageUrlSM: "/images/dokumentasi/samarLontarSM.jpg",
-    imageUrlLG: "/images/dokumentasi/samarLontarLG.jpg",
+    imageUrlSM: "/images/dokumentasi/raihanah7SM.jpg",
+    imageUrlLG: "/images/dokumentasi/raihanah7LG.jpg",
   },
 ];
 
