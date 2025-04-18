@@ -8,7 +8,7 @@ function About() {
       <p className=" text-[clamp(0.8rem,0.6925rem+0.4776vw,1.2rem)] font-light">
         Assalaamu `alaikum Warahmatullahi Wabarakatuh, <br /> <br /> Kami{" "}
         {dataCompany.companyLawName} adalah perusahaan wisata yang fokus pada
-        pelayanan pemberangkatan jama`ah umrah yang berdiri sejak tahun{" "}
+        pelayanan pemberangkatan jama`ah haji & umrah yang berdiri sejak tahun{" "}
         {dataCompany.year} di kota {dataCompany.city}.
       </p>
 

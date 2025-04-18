@@ -4,12 +4,13 @@ const dataCompany = {
   companyLawName: "PT. Raihanah Awaliyah",
   year: "2015",
   ceoName: "Dr. H. Najib Tabhan, Lc., MA",
-  ceoImage: "/images/ceo.jpeg",
-  address: "Depan Pasar Batangase, Maros, Sulawesi Selatan",
-  city: "Maros",
+  ceoImage: "/images/najib.png",
+  address:
+    "Jl. Abd. Kadir No.48, RT.005/RW.006, Balang Baru, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90224",
+  city: "Makassar",
   cityImage: "/images/maros.jpg",
   contactNumber: "6281281387084",
-  googleMap: "https://google.com",
+  googleMap: "https://maps.app.goo.gl/JXQxNqenAvu9dkqg9",
   whatsAppLink:
     "https://api.whatsapp.com/send/?phone=6281281387084&text=Assalaamu+alaikum+Raihanah+Awaliyah+Travel&type=phone_number&app_absent=0",
 };
