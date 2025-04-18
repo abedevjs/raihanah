@@ -37,7 +37,7 @@ function MobileContent({ onClick }) {
           <p className="mb-6 text-[clamp(1rem,0.6667rem+1.4815vw,1.5rem)] font-semibold opacity-80">
             bersama
           </p>
-          <h3 className=" uppercase text-[clamp(2.5rem,1.5rem+4.4444vw,4rem)] font-extrabold text-transparent inline-block bg-clip-text bg-gradient-to-b from-accent-300 to-accent-600">
+          <h3 className=" text-[clamp(2.5rem,1.5rem+4.4444vw,4rem)] font-extrabold text-transparent inline-block bg-clip-text bg-gradient-to-b from-accent-300 to-accent-600">
             {dataCompany.companyShortName}
           </h3>
         </div>
