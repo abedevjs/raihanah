@@ -1,6 +1,6 @@
 function QoranVerse() {
   return (
-    <div className=" pt-8 flex flex-col space-y-4 text-accent-400 text-center">
+    <div className=" pt-8 flex flex-col space-y-4 text-primary-400 text-center">
       <p className="text-[clamp(2.5rem,1.694rem+3.5821vw,5.5rem)]">
         {" "}
         وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ

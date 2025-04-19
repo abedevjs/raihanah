@@ -9,7 +9,7 @@ function DividerSection({ title = "" }) {
         } mb-10 w-full flex items-end gap-4  justify-center opacity-70`}
       >
         {title && (
-          <p className=" text-[clamp(1.2rem,1.0244rem+0.7805vw,2rem)] text-center font-extrabold text-transparent inline-block bg-clip-text bg-gradient-to-b from-accent-300 to-accent-600">
+          <p className=" text-[clamp(1.2rem,1.0244rem+0.7805vw,2rem)] text-center font-extrabold text-transparent inline-block bg-clip-text bg-gradient-to-b from-primary-300 to-primary-800">
             {title}
           </p>
         )}
