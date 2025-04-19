@@ -93,8 +93,11 @@ function App() {
 
       <FramerReveal>
         <div className="w-full mt-32 mb-10 text-center">
-          <p className="  text-[clamp(1rem,0rem+4.4444vw,2.5rem)] font-extrabold text-transparent bg-clip-text inline-block bg-gradient-to-b from-accent-300 to-accent-600">
-            {`Mari ke Baitul Haram bersama ${dataCompany.companyShortName}`}{" "}
+          <p className="  text-[clamp(1.3rem,0.625rem+3vw,2.5rem)] font-extrabold text-transparent bg-clip-text inline-block bg-gradient-to-b from-accent-300 to-accent-600">
+            {`${dataCompany.companyShortName}`} <br />
+          </p>
+          <p className=" mx-auto text-stone-400 text-[clamp(1rem,0rem+4.4444vw,2.5rem)] font-semibold opacity-80">
+            Mitra Anda Menuju Baitullah
           </p>
         </div>
       </FramerReveal>
