@@ -132,18 +132,48 @@ const dataDokumentasiImage = [
 const dataDokumentasiVideo = [
   {
     type: "vid",
-    videoUrlSM: "/videos/dokumentasi/samarArafahSM.mp4",
-    videoUrlLG: "/videos/dokumentasi/samarArafahLG.mp4",
+    videoUrlSM: "/videos/dokumentasi/raivid1SM.mp4",
+    videoUrlLG: "/videos/dokumentasi/raivid1LG.mp4",
   },
   {
     type: "vid",
-    videoUrlSM: "/videos/dokumentasi/samarLabbaikSM.mp4",
-    videoUrlLG: "/videos/dokumentasi/samarLabbaikLG.mp4",
+    videoUrlSM: "/videos/dokumentasi/raivid3SM.mp4",
+    videoUrlLG: "/videos/dokumentasi/raivid3LG.mp4",
   },
   {
     type: "vid",
-    videoUrlSM: "/videos/dokumentasi/samarOpeningSM.mp4",
-    videoUrlLG: "/videos/dokumentasi/samarOpeningLG.mp4",
+    videoUrlSM: "/videos/dokumentasi/raivid4SM.mp4",
+    videoUrlLG: "/videos/dokumentasi/raivid4LG.mp4",
+  },
+  {
+    type: "vid",
+    videoUrlSM: "/videos/dokumentasi/raivid5SM.mp4",
+    videoUrlLG: "/videos/dokumentasi/raivid5LG.mp4",
+  },
+  {
+    type: "vid",
+    videoUrlSM: "/videos/dokumentasi/raivid6SM.mp4",
+    videoUrlLG: "/videos/dokumentasi/raivid6LG.mp4",
+  },
+  {
+    type: "vid",
+    videoUrlSM: "/videos/dokumentasi/raivid7SM.mp4",
+    videoUrlLG: "/videos/dokumentasi/raivid7LG.mp4",
+  },
+  {
+    type: "vid",
+    videoUrlSM: "/videos/dokumentasi/raivid8SM.mp4",
+    videoUrlLG: "/videos/dokumentasi/raivid8LG.mp4",
+  },
+  {
+    type: "vid",
+    videoUrlSM: "/videos/dokumentasi/raivid9SM.mp4",
+    videoUrlLG: "/videos/dokumentasi/raivid9LG.mp4",
+  },
+  {
+    type: "vid",
+    videoUrlSM: "/videos/dokumentasi/raivid10SM.mp4",
+    videoUrlLG: "/videos/dokumentasi/raivid10LG.mp4",
   },
 ];
 
