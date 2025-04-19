@@ -31,15 +31,15 @@ function MobileContent({ onClick }) {
       {/* Text*/}
       <FramerReveal>
         <div className="  flex flex-col items-center ">
-          <p className=" mx-auto text-primary-50 text-[clamp(1.3rem,0.625rem+3vw,2.5rem)] font-semibold opacity-80">
-            Layanan Ibadah <br /> Haji dan Umrah
-          </p>
-          <p className="mb-6 text-[clamp(1rem,0.6667rem+1.4815vw,1.5rem)] font-semibold opacity-80">
-            bersama
-          </p>
           <h3 className=" text-[clamp(2.5rem,1.5rem+4.4444vw,4rem)] font-extrabold text-transparent inline-block bg-clip-text bg-gradient-to-b from-accent-300 to-accent-600">
             {dataCompany.companyShortName}
           </h3>
+          <p className=" mx-auto text-primary-50 text-[clamp(1.3rem,0.625rem+3vw,2.5rem)] font-semibold opacity-80">
+            Mitra Anda Menuju Baitullah
+          </p>
+          {/* <p className="mb-6 text-[clamp(1rem,0.6667rem+1.4815vw,1.5rem)] font-semibold opacity-80">
+            bersama
+          </p> */}
         </div>
       </FramerReveal>
 
@@ -70,20 +70,20 @@ function DesktopContent({ onClick }) {
       <FramerReveal>
         <div className="  flex flex-col items-center gap-8">
           <div className=" flex flex-col text-left">
-            {/* Font size =  Minimum = 3rem@1000px - Maximum = 3.5rem@2000px */}
-            <p className=" text-[clamp(3rem,2.5rem+0.8vw,3.5rem)] font-semibold opacity-80">
-              Perjalanan wisata menuju <br /> Baitul Haram
-            </p>
-
-            {/* Font size =  Minimum = 1.3rem@1000px - Maximum = 1.7rem@2000px */}
-            <p className="text-[clamp(1.3rem,0.9rem+0.64vw,1.7rem)] font-semibold opacity-80">
-              bersama
-            </p>
-
             {/* Font size =  Minimum = 3.75rem@1000px - Maximum = 4.5rem@2000px */}
             <h1 className=" mt-2 uppercase text-[clamp(3.75rem,3rem+1.2vw,4.5rem)] font-extrabold text-transparent inline-block bg-clip-text bg-gradient-to-b from-accent-300 to-accent-600">
               {dataCompany.companyShortName}
             </h1>
+
+            {/* Font size =  Minimum = 3rem@1000px - Maximum = 3.5rem@2000px */}
+            <p className=" text-[clamp(3rem,2.5rem+0.8vw,3.5rem)] font-semibold opacity-80">
+              Mitra Anda Menuju <br /> Baitullah
+            </p>
+
+            {/* Font size =  Minimum = 1.3rem@1000px - Maximum = 1.7rem@2000px */}
+            {/* <p className="text-[clamp(1.3rem,0.9rem+0.64vw,1.7rem)] font-semibold opacity-80">
+              bersama
+            </p> */}
 
             {/* Font size =  Minimum = 1.1rem@1000px - Maximum = 1.4rem@2000px */}
             <p className=" mt-8 w-4/5 self-start text-[clamp(1.1rem,0.8rem+0.48vw,1.4rem)] font-semibold opacity-80">
